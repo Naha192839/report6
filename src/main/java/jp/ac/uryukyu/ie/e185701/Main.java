@@ -1,7 +1,5 @@
 package jp.ac.uryukyu.ie.e185701;
 
-import java.io.IOException;
-
 public class Main {
     public static void main(String[] args){
         Player1 p1 =new Player1();
