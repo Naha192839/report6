@@ -7,6 +7,14 @@ import static org.junit.jupiter.api.Assertions.*;
 class Player2Test {
 
     @Test
-    void player2() {
+    void random() {
+        int[] test ={0,1,2};
+        Player2 p2 = new Player2();
+        p2.random();
+        for (int i:test) {
+            if (p2.choice ==test[i]){
+                System.out.println(p2.choice);
+            }
+        }
     }
 }

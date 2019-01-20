@@ -23,7 +23,7 @@ test {
 
 jar {
     manifest {
-        attributes  "Main-Class": "jp.ac.uryukyu.ie.e185701.Main"
+        attributes  "Main-Class": "jp.ac.uryukyu.ie.e185701.Main"attributes  "Player2Test-Class": "jp.ac.uryukyu.ie.e185701.Player2Test"
         attributes 'Implementation-Title': 'Gradle Quickstart', 'Implementation-Version': version
     }
 }
