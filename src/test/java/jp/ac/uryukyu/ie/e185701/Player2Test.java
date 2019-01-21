@@ -16,5 +16,6 @@ class Player2Test {
                 System.out.println(p2.choice);
             }
         }
+        System.out.println(p2.choice);
     }
 }

@@ -12,6 +12,7 @@ public class Player2 {
     private int rock = 0;
     private int scissors = 1;
     private int paper = 2;
+
     private String hand2;
     private int pon2;
     int choice;
