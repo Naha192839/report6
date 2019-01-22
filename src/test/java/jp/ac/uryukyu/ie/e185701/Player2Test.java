@@ -4,6 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * 変数choiceにランダムに0,1,2が入ってるか調べるクラス
+ */
 class Player2Test {
 
     @Test
@@ -16,6 +19,5 @@ class Player2Test {
                 System.out.println(p2.choice);
             }
         }
-        System.out.println(p2.choice);
     }
 }

@@ -7,7 +7,7 @@ import java.util.Scanner;
  * playerのじゃんけんクラス
  */
 public class Player1 {
-    /**
+       /**
      * ぐう、ちょき、ぱあの変数
      */
     private int rock = 0;
